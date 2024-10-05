@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer from Pakistan</h3>
 
 - 💬 Ask me about **react, next.js**
-- Currently learning Swift 
+- Currently learning **Swift** 
 - 📫 How to reach me **abdulwahab25681@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
